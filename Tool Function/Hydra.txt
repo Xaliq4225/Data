@@ -1,0 +1,1 @@
+Hydra, düzgün istifadəçi adları və parol cütlərini tapmaq üçün bir əmr satırı vasitəsidir. Bağımsız bir parol qırıcısı olan John The Ripper - dən fərqli olaraq, Hydra onlayn tətbiqetmələrə diqqət yetirir və onu internet nüfuz testi üçün uyğun edir. Çox başlı adaşı kimi, Hydra da parol sındıran kimi bir çox xidmətləri hədəf alır.

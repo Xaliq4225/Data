@@ -1,0 +1,4 @@
+{sudo su} - Root yetkisi verir
+{sudo apt install <name> } - tool yükler
+{sudo apt update} - tool listesini update eder
+{sudo apt upgrade} - tool listesini upgrade eder
