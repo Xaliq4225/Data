@@ -1,0 +1,1 @@
+Vpscan, xüsusi olaraq veb saytlar üçün hazırlanmış bir təhlükəsizlik vasitəsidir. Pluginlər, mövzular və ən əsas veb sayt quraşdırmasındakı zəiflikləri aşkar etmək üçün istifadə olunur.

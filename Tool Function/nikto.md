@@ -1,0 +1,1 @@
+Təsvir. Nikto, təhlükəli sənədlər və proqramlar da daxil olmaqla bir çox element üçün veb server zəifliklərini tarayan açıq mənbəli veb server skaneridir (GPL). Nitko veb server proqramının köhnəlmiş versiyalarını yoxlayır.

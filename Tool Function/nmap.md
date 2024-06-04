@@ -1,0 +1,1 @@
+Nmap: şəbəkənizi kəşf edin. Nmap ("şəbəkə xəritəsi") şəbəkə aşkarlanması və təhlükəsizlik auditi üçün pulsuz və açıq mənbəli bir yardım proqramıdır. Bir çox Sistem və şəbəkə administratorları bunu şəbəkə inventarizasiyası, xidmət yeniləmə cədvəllərinin idarə edilməsi və Host və ya Xidmətin iş vaxtının monitorinqi kimi tapşırıqlar üçün də faydalı hesab edirlər.

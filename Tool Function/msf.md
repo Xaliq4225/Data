@@ -1,0 +1,1 @@
+Metasploit platforması, kiber cinayətkarlar və etik hakerlər tərəfindən şəbəkələrdə və serverlərdə sistematik zəiflikləri aşkar etmək üçün istifadə edilə bilən çox güclü bir vasitədir. Açıq mənbəli bir platforma olduğundan, əksər əməliyyat sistemləri ilə asanlıqla konfiqurasiya edilə və istifadə edilə bilər.

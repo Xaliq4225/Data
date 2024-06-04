@@ -1,0 +1,1 @@
+Lynis, Unix, Linux və macOS əsaslı əməliyyat sistemlərini idarə etmək üçün istifadə olunur. Sisteminizdəki zəiflikləri və zərərli proqramları Lynis ilə taraya bilərsiniz.

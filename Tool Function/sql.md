@@ -1,0 +1,1 @@
+Sqlmap, SQL Enjeksiyon zəifliklərini aşkar etmək və istifadə etmək üçün nüfuz testində istifadə olunan açıq mənbəli bir vasitədir. Sqlmap SQL enjeksiyonlarının aşkarlanması və istifadəsi prosesini avtomatlaşdırır. SQL Enjeksiyon hücumları SQL istifadə edən verilənlər bazalarına nəzarət etməyə imkan verir.

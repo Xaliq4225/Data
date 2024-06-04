@@ -1,0 +1,1 @@
+Sherlock, müəyyən bir istifadəçi adı və ya onlayn şəxsiyyət haqqında məlumat toplamaq üçün açıq mənbəli ağıllı bir vasitədir (OSINT). Sherlock ' un əsas xüsusiyyətlərindən biri, bir çox sosial media platformasında və veb saytında müəyyən bir istifadəçi adı axtarmaq qabiliyyətidir.

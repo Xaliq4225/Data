@@ -1,0 +1,1 @@
+SEToolkit, nüfuz testçiləri və etik hakerlər tərəfindən sistemlərin və təşkilatların təhlükəsizliyini qiymətləndirmək üçün istifadə olunan güclü və çox yönlü bir vasitədir. Bununla birlikdə, özünüzü onlardan daha yaxşı qorumaq üçün bu üsullarla əlaqəli potensial riskləri və zəiflikləri anlamaq vacibdir.

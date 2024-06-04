@@ -1,0 +1,1 @@
+Gobuster, veb saytlardakı URI (qovluqlar və fayllar), DNS alt domenləri (joker dəstəyi ilə), hədəf veb serverlərdəki virtual host adları, Amazon S3 paketlərinin dekompressiyası, Google Cloud paketlərinin və TFTP serverlərinin dekompressiyası üçün bir vasitədir. Gobuster, pentester etik hakerlər və məhkəmə ekspertləri üçün faydalıdır.

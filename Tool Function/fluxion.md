@@ -1,0 +1,1 @@
+Bu alətin işi belədir: 1) adı orijinala bənzəyən yeni bir saxta giriş nöqtəsi yaradacaqdır. 2) sonra orijinal qaynar nöqtəyə qoşulmuş bütün müştəriləri təsdiqləməyəcəkdir. 3) hər hansı bir müştəri saxta giriş nöqtəsindən istifadə edərək qoşulmağa çalışdıqda, etimadnamələr toplanacaq.

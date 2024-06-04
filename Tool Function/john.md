@@ -1,0 +1,1 @@
+John The Ripper (JTR) hakerlər tərəfindən parolları sındırmaq üçün həm etik, həm də fərqli baxımdan istifadə edilən pulsuz, açıq mənbəli proqram vasitəsidir. Bu proqram ümumiyyətlə Univ /Linux mühitində və zəif parolları aşkar edə biləcəyi Mac OS X-də istifadə olunur. John The Ripper jumbo bir çox növ Şifrə və hashes dəstəkləyir.
